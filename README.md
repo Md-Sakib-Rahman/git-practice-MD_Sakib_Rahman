@@ -1,7 +1,18 @@
 # Git Practice Project
 
-Name: MD Sakib Rahman
+## Author
+MD Sakib Rahman
 
-## Description
+## Features
 
-This project demonstrates Git and GitHub workflows including commits, branching, merging, and pushing code to a remote repository.
+- Git initialization
+- Branch creation
+- Merge operations
+- Calculator functions
+- GitHub integration
+
+## Technologies
+
+- Python
+- Git
+- GitHub

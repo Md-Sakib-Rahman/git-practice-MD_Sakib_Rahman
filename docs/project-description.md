@@ -1,10 +1,14 @@
 # Project Description
 
-This project is created for practicing Git and GitHub operations.
+This project demonstrates:
 
-Features:
-- Git initialization
-- Commits
-- Branching
-- Merging
-- GitHub integration
+- Git repository creation
+- Multiple commits
+- Feature branching
+- Branch merging
+- GitHub remote repository management
+
+Calculator Functions:
+- Add
+- Subtract
+- Multiply
